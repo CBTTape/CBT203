@@ -1,0 +1,14 @@
+2023-08-06 02:11:22.170216 - Initialized conversion of CBT203
+2023-08-06 02:11:22.252892 - Received CBT.V505.FILE203.PDS from FILE203.XMI 
+2023-08-06 02:11:22.255366 - Found $$$$DOC.txt (text/plain) in CBT.V505.FILE203.PDS, moved to PDS/$$$$DOC
+2023-08-06 02:11:22.256434 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE203.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:11:22.257555 - Found @FILE203.txt (text/plain) in CBT.V505.FILE203.PDS, moved to PDS/@FILE203
+2023-08-06 02:11:22.258457 - Found STKEDTE.txt (text/plain) in CBT.V505.FILE203.PDS, moved to PDS/STKEDTE
+2023-08-06 02:11:22.259478 - Found STKEDTE@.jcl (text/plain) in CBT.V505.FILE203.PDS, moved to PDS/STKEDTE@
+2023-08-06 02:11:22.260496 - Found STKEJCT.txt (text/plain) in CBT.V505.FILE203.PDS, moved to PDS/STKEJCT
+2023-08-06 02:11:22.261497 - Found STKEJCT@.jcl (text/plain) in CBT.V505.FILE203.PDS, moved to PDS/STKEJCT@
+2023-08-06 02:11:22.262463 - Found STKESTK.txt (text/plain) in CBT.V505.FILE203.PDS, moved to PDS/STKESTK
+2023-08-06 02:11:22.263352 - Found STKESTK@.jcl (text/plain) in CBT.V505.FILE203.PDS, moved to PDS/STKESTK@
+2023-08-06 02:11:22.264216 - Found STKETMS.txt (text/plain) in CBT.V505.FILE203.PDS, moved to PDS/STKETMS
+2023-08-06 02:11:22.265248 - Found STKETMS@.jcl (text/plain) in CBT.V505.FILE203.PDS, moved to PDS/STKETMS@
+2023-08-06 02:11:22.266233 - Found TMSEJECT.jcl (text/plain) in CBT.V505.FILE203.PDS, moved to PDS/TMSEJECT
